@@ -75,7 +75,8 @@ tk.Label(window,
          bg="#f0f4f8", fg="#888").pack(pady=(0, 4))
 
 tk.Label(window,
-         text="اعداد الطالب: طه جاسم محمد",
+         text="اعداد الطالبين: طه جاسم محمد | " \
+         "ثوبان عمر شاكر",
          font=("Arial", 12),
          bg="#f0f4f8", fg="#888").pack(pady=(0, 15))
 
